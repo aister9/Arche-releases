@@ -1,0 +1,7 @@
+{
+  "version": "v0.1.3-demo",
+  "platform": "Windows x86_64",
+  "asset": "Arche-v0.1.3-demo-win64.zip",
+  "sha256": "d985a3505a99f173b9698f45117400c116e61dbef9180a6917ca8f7c4574dd8b",
+  "exe_sha256": "93c5f1bcd1e70d42bd1f3f988755e36fdf3d048995e764804994013b73302386"
+}
