@@ -1,0 +1,8 @@
+{
+  "version": "v0.2.1-demo",
+  "platform": "Windows x86_64",
+  "patch_only": true,
+  "pck_sha256": "e5b4ce23f1e1f4ae995144aaec32bd21b052fef27e4416a2aabe2b87c81b8683",
+  "exe_sha256": "3898fa36f88b70b9ddb53927ca4bb142a8b76be5d67cf0208a7f29e4430851a9",
+  "baseline_url": "https://github.com/aister9/Arche-releases/releases/tag/v0.2.0-demo"
+}
